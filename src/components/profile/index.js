@@ -10,7 +10,7 @@ function Profile(){
                 <h1>kai</h1>
                 <S.WrapperUsername>
                     <h3>username: </h3>
-                    <span>remerson</span>
+                    <a href="" target="_blank" rel="noreferrer">remerson</a>
                 </S.WrapperUsername>
             </div>
             <S.WrapperStatusCounter>
